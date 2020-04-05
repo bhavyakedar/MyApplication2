@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplication2</string>
+    <string-array name="list">
+        <item>black beer</item>
+        <item>red beer</item>
+        <item>blue beer</item>
+    </string-array>
+</resources>
